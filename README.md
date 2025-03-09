@@ -1,3 +1,5 @@
-Hi 👋, I'm Erkan Yıldırım
+Hi 👋
+
+I'm Erkan Yıldırım
 
 [LinkedIn](https://www.linkedin.com/in/erkyldrm/)
